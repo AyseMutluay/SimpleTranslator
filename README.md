@@ -27,5 +27,5 @@ Bu proje, **MyMemory API** altyapısını kullanarak metinleri farklı dillere a
 ## 📝 Önemli Not
 Uygulamanın çalışması için internet bağlantısı gereklidir. Ücretsiz API kullanıldığı için günlük limitler dahilinde çalışmaktadır.
 
-**Geliştiren:**
+## Geliştiren:
 Ayşe Mutluay
