@@ -4,7 +4,7 @@ Bu proje, **MyMemory API** altyapısını kullanarak metinleri farklı dillere a
 
 ## ✨ Özellikler
 
-- **Hızlı Çeviri:** Farklı diller (İngilizce, Türkçe) arasında anlık çeviri.
+- **Hızlı Çeviri:** Farklı diller (İngilizce, Türkçe,İtalyanca, Fransızca) arasında anlık çeviri.
 - **Asenkron Mimari:** `async/await` yapısı sayesinde çeviri işlemi yapılırken kullanıcı arayüzü (UI) donmaz.
 - **Hata Yönetimi:** İnternet bağlantısı veya API kaynaklı hatalar için kullanıcı dostu uyarı mesajları.
 - **Basit ve Temiz Arayüz:** Kullanıcı odaklı, karmaşıklıktan uzak tasarım.
